@@ -3,7 +3,7 @@
 
 **- It is used to run a bearing under a radial load until it fails.**
 
-**- The final system is shown in the following picture:**
+**- The final system is shown in the following picture. I manufactured the parts using lathe, milling machine, and 3Dprinters, and then, assembled them as shown below:**
 ![photo_7_2023-04-14_23-31-23](https://github.com/hajnayeb/RUL/assets/74108898/2d3ad33f-468c-4f79-a039-ea15f28d391b)
 
 **- The initial design in SolidWorks is shown below:**
