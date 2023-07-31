@@ -9,6 +9,8 @@
 
 ![image](https://github.com/hajnayeb/RUL/assets/74108898/5fe1073b-8986-47f4-91d7-a79643524a51)
 
+**- A step before that is shown below (before modifying some of the parts and replacing them with Aluminum):**
+
 ![photo_7_2023-04-14_23-31-23](https://github.com/hajnayeb/RUL/assets/74108898/2d3ad33f-468c-4f79-a039-ea15f28d391b)
 
 **- The initial design in SolidWorks is shown below:**
