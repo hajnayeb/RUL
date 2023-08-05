@@ -1,5 +1,5 @@
 # RUL Test setup
-**- My ball bearing remaining useful life project at University of Calgary.**
+**- I designed and manufactured a test rig for the ball bearing remaining useful life project at University of Calgary.**
 
 **- It is used to run a bearing under a radial load until it fails.**
 
